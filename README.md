@@ -10,9 +10,10 @@ Are you working on an open source project that needs a password manager? How abo
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
 ```markdown
-### Project name
-A short description of what we do.
-https://myawesomeproject.org
+### Radiobook
+Open source radio software for everyone to develop together
+https://github.com/ituanpv/Radiobook.git
+
 ```
 
 4. Create a pull request and fill out the template with the requested details.
